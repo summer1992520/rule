@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,provider.plex.tv
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,ko-fi.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
