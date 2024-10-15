@@ -597,10 +597,11 @@ DOMAIN-SUFFIX,api.steampowered.com
 # IPTV
 DOMAIN-SUFFIX,ottdns.com
 
-#pixman 以下规则需要国内直连
+## pixman
+# 以下规则需要国内直连
 ## TPTV
 DOMAIN-SUFFIX,mobaibox.com
-IP-CIDR,183.207.0.0/16,DIRECT,no-resolve
+IP-CIDR,183.207.0.0/16,no-resolve
 ## YSP
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
