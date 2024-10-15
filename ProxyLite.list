@@ -33,3 +33,23 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
+## pixman
+# 以下规则需要台湾线路
+## Hamivideo
+DOMAIN-SUFFIX,cdn.hinet.net
+# 以下规则需要海外线路
+## 4GTV & Hamivideo
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+## YouTube
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+## MytvSuper
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+# 以下规则可自行测试能否直连，不能直连的话设置为海外代理
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,livednow.org
+DOMAIN-SUFFIX,wx.sb
