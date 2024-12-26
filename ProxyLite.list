@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,provider.plex.tv
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ko-fi.com
+DOMAIN-SUFFIX,v1.mk
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
